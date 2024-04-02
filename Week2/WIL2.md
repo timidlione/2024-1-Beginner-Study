@@ -1,2 +1,2 @@
 GDSC 개발 입문 스터디 2주차에서 GitHub의 Fork라는 것이 다다른 사용자의 Repository를 자신의 계정으로 복사하여  독립적으로 수정하고 관리하는 것이고 Star는 관심 있는 Repository나 프로젝트에 star를 달아 북마크와 같이 관리한다는 것임을 알게 되었습니다. 또한 자료구조 시간에서도 Branch에 대하여 공부를 하였는데 이번 스터디에서도 브랜치에 대해서 더 자세히 알아가는 시간이 되어서 도움이 많이 되었습니다. 과제를 하면서 다시 한 번 복습해보는 것도 좋았습니다. 더 열심히 하는 동기부여가 되었습니다.
-https://github.com/timidlione/timidlione
+<https://github.com/timidlione/timidlione>
